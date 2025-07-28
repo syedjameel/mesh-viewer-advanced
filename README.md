@@ -2,6 +2,8 @@
 
 A simple 3D mesh viewer built with Python and ModernGL. Load and view STL files with an easy-to-use interface.
 
+![Mesh Viewer Screenshot](assets/mv_icosphere_sample.png)
+
 ## What it does
 
 - Load multiple 3D mesh files (STL format)
@@ -34,11 +36,3 @@ python main.py
 - Python 3.7+
 - OpenGL support
 - See `requirements.txt` for Python packages
-
-## Screenshots
-
-The interface shows a 3D viewport with control panels for managing meshes and view options.
-
----
-
-Simple mesh viewer for 3D files. Works well for viewing STL models and basic 3D visualization tasks.
