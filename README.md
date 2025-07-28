@@ -33,6 +33,6 @@ python main.py
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - OpenGL support
 - See `requirements.txt` for Python packages
