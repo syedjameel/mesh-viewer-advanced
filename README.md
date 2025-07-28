@@ -24,7 +24,7 @@ python main.py
 
 ## How to use
 
-- **Load meshes**: Use File menu or drag & drop
+- **Load meshes**: Use File menu
 - **Camera**: Mouse to rotate, scroll to zoom
 - **View options**: Toggle wireframe, axes, etc.
 - **Mesh list**: Check/uncheck to show/hide meshes
