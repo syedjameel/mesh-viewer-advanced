@@ -47,7 +47,6 @@ Thumbs.db
 logs/
 *.log
 *.ini
-*.png
 !expected_ui.png
 
 # Testing
